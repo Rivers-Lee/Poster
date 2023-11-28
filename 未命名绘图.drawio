@@ -1,61 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T03:19:48.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d_1NTe6VQWYaOB5mmOEL" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T03:45:41.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iydPYQjx8wZ0mC3tyOAm" version="22.1.4" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qyoJWSPACBOKUFeCBDac-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20" target="24">
+        <mxCell id="vvGThWaMnOp2P52YM-Aq-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="36" width="440" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Macs2&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Subset Celltype Pseudo B&lt;span style=&quot;background-color: initial;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;am&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Call peak with macs2&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry y="193" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qyoJWSPACBOKUFeCBDac-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="21" target="20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Macs2&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Subset Celltype Pseudo B&lt;span style=&quot;background-color: initial;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;am&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Call peak with macs2&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="90" y="230" width="200" height="70" as="geometry" />
+        <mxCell id="21" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;ArchR&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;QC Filter&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Cell type annotation&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry x="15" y="93" width="170" height="68.75" as="geometry" />
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21" target="20">
+        <mxCell id="23" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Peak type define&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;According to the distance from&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;tss, it is divided into&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;promoter(0-500)&lt;/u&gt;&lt;/b&gt;,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;proximal enhancer(2000-5000)&lt;/u&gt;&lt;/b&gt;,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;distal enhancer(5000+)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry x="244.16000000000003" y="412.04" width="191.69" height="106.96" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Intersection between cell types&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Define common peak and&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;celltype specific peak&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;Add a species-cell type-ID key&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;each peak to return to the&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;original peak after liftOver&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry y="295" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qyoJWSPACBOKUFeCBDac-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="20" target="24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;ArchR&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;QC Filter&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Cell type annotation&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="105" y="130" width="170" height="68.75" as="geometry" />
-        </mxCell>
-        <mxCell id="23" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Peak type define&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;According to the distance from&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;tss, it is divided into &lt;b&gt;&lt;u&gt;promoter(0-500)&lt;/u&gt;&lt;/b&gt;,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;proximal enhancer(2000-5000)&lt;/u&gt;&lt;/b&gt;,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;distal enhancer(5000+)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="318.31" y="453.0400000000001" width="223.38" height="93.76" as="geometry" />
-        </mxCell>
-        <mxCell id="hr01K9os6DIjgFh3DZC3-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="24" target="29" edge="1">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="25" target="21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Intersection between cell types&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Define common peak and&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;celltype specific peak&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;Add a species-cell type-ID key&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;each peak to return to the&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;original peak after liftOver&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="90" y="340" width="200" height="110" as="geometry" />
+        <mxCell id="25" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Cellranger&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Get operable&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;scATAC matrix&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry x="15" y="4" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="25" target="21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="25" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Cellranger&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Get operable&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;scATAC matrix&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="105" y="40" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hr01K9os6DIjgFh3DZC3-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29" target="23" edge="1">
+        <mxCell id="hr01K9os6DIjgFh3DZC3-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="29" target="23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="600" />
-              <mxPoint x="430" y="600" />
+              <mxPoint x="100" y="552" />
+              <mxPoint x="340" y="552" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="29" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;UCSC liftOver&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;liftOver to mm39 genome&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;and annotate to mm39&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;(&lt;b&gt;&lt;u&gt;annotate to the nearest&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;&lt;u&gt;gene to the Tss&lt;/u&gt;&lt;/b&gt;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="110.54" y="480" width="158.92" height="100" as="geometry" />
+        <mxCell id="29" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;UCSC liftOver&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;liftOver to mm39 genome&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;and annotate to mm39&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;(&lt;b&gt;&lt;u&gt;annotate to the nearest&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;gene&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=0;fillColor=#D4E1F5;fontColor=#003366" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry y="436" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hr01K9os6DIjgFh3DZC3-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="21" target="21" edge="1">
+        <mxCell id="hr01K9os6DIjgFh3DZC3-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="24" target="29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-114" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="330" width="180" height="98" as="geometry" />
+        <mxCell id="hr01K9os6DIjgFh3DZC3-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="vvGThWaMnOp2P52YM-Aq-29" source="21" target="21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qyoJWSPACBOKUFeCBDac-114" target="hr01K9os6DIjgFh3DZC3-146">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-114" value="" style="group" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1" connectable="0">
+          <mxGeometry x="250" y="290" width="180" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="qyoJWSPACBOKUFeCBDac-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qyoJWSPACBOKUFeCBDac-114" target="hr01K9os6DIjgFh3DZC3-146" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="122.03999999999996" as="sourcePoint" />
             <mxPoint x="90" y="97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hr01K9os6DIjgFh3DZC3-137" value="Peak table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=15;" parent="qyoJWSPACBOKUFeCBDac-114" vertex="1">
-          <mxGeometry width="180" height="94" as="geometry" />
+        <mxCell id="hr01K9os6DIjgFh3DZC3-137" value="Peak table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=15;" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1">
+          <mxGeometry x="250" y="280" width="180" height="94" as="geometry" />
         </mxCell>
         <mxCell id="hr01K9os6DIjgFh3DZC3-138" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="hr01K9os6DIjgFh3DZC3-137" vertex="1">
           <mxGeometry y="30" width="180" height="20" as="geometry" />
@@ -111,24 +114,18 @@
             <mxRectangle width="60" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-107" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#D4E1F5;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;verticalAlign=top;strokeColor=#003366;fontColor=#003366;shadow=0;" vertex="1" parent="hr01K9os6DIjgFh3DZC3-146">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-107" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#D4E1F5;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;verticalAlign=top;strokeColor=#003366;fontColor=#003366;shadow=0;" parent="hr01K9os6DIjgFh3DZC3-146" vertex="1">
           <mxGeometry x="180" width="NaN" height="24" as="geometry">
             <mxRectangle width="NaN" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hr01K9os6DIjgFh3DZC3-137" target="hr01K9os6DIjgFh3DZC3-160">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-123" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="335" y="60" width="195" height="238.75" as="geometry" />
-        </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qyoJWSPACBOKUFeCBDac-123" source="hr01K9os6DIjgFh3DZC3-160">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="hr01K9os6DIjgFh3DZC3-160" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="100" as="targetPoint" />
+            <mxPoint x="340" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-120" value="" style="group" vertex="1" connectable="0" parent="qyoJWSPACBOKUFeCBDac-123">
-          <mxGeometry width="195" height="238.75" as="geometry" />
+        <mxCell id="qyoJWSPACBOKUFeCBDac-120" value="" style="group" parent="vvGThWaMnOp2P52YM-Aq-29" vertex="1" connectable="0">
+          <mxGeometry x="245" y="19" width="195" height="238.75" as="geometry" />
         </mxCell>
         <mxCell id="hr01K9os6DIjgFh3DZC3-163" value="Integrated peak fulltable" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=15;" parent="qyoJWSPACBOKUFeCBDac-120" vertex="1">
           <mxGeometry width="190" height="100" as="geometry" />
@@ -187,15 +184,15 @@
             <mxRectangle width="63" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-116" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Intervene&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;The peak overlap (60% overlap)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;between the same cell types was&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;used to detect the gain and loss of&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;regulatory elements&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;within the cell types&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="hr01K9os6DIjgFh3DZC3-172">
-          <mxGeometry x="190" width="NaN" height="24" as="geometry">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-116" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Intervene&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;The peak overlap (60% overlap)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;between the same cell types was&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;used to detect the gain and loss of&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;regulatory elements&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;within the cell types&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="hr01K9os6DIjgFh3DZC3-172" vertex="1">
+          <mxGeometry x="190" height="24" as="geometry">
             <mxRectangle width="NaN" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hr01K9os6DIjgFh3DZC3-160" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Intersection of species&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;The peak overlap &lt;b&gt;&lt;u&gt;(60% overlap)&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;between the same cell types was&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;used to detect the gain and loss of&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;regulatory elements&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;within the cell types&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="qyoJWSPACBOKUFeCBDac-120" vertex="1">
-          <mxGeometry x="-5" y="128.75" width="200" height="110" as="geometry" />
+        <mxCell id="hr01K9os6DIjgFh3DZC3-160" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Intersection of species&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;The peak overlap &lt;b&gt;&lt;u&gt;(60% overlap)&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;between the conspecific cell types&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;of different species with sufficient&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;cell numbers&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="qyoJWSPACBOKUFeCBDac-120" vertex="1">
+          <mxGeometry x="-5" y="132.75" width="200" height="91.25" as="geometry" />
         </mxCell>
-        <mxCell id="qyoJWSPACBOKUFeCBDac-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qyoJWSPACBOKUFeCBDac-120" source="hr01K9os6DIjgFh3DZC3-160" target="qyoJWSPACBOKUFeCBDac-116">
+        <mxCell id="qyoJWSPACBOKUFeCBDac-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vvGThWaMnOp2P52YM-Aq-29" source="hr01K9os6DIjgFh3DZC3-137" target="hr01K9os6DIjgFh3DZC3-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
